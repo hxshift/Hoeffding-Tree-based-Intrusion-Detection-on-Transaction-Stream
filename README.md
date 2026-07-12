@@ -1,0 +1,2 @@
+# Hoeffding-Tree-based-Intrusion-Detection-on-Transaction-Stream
+Real-time intrusion detection system using the Hoeffding Tree algorithm to detect anomalous transactions in continuous data streams. Supports incremental learning, low-latency predictions, and adapts to evolving patterns without retraining. Its suitable for dynamic learning environments.
